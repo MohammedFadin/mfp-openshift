@@ -9,3 +9,8 @@
 - Download the MFP Server
 - Make sure JDK8 is installed
 - export $JAVA_HOME=/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home
+
+
+## Installing JDK8 on Mac OSX
+- brew tap adoptopenjdk/openjdk
+- brew cask install adoptopenjdk8
